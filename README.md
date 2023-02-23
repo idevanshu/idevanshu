@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="idevanshu" /> </p>
 
-- 🌱 I’m currently learning **Django, ReactJS, javascript and C/C++ for DSA.**
+- 🌱 I am an 18-year computer enthusiast pursuing a bachelor's degree in computer science and engineering in artificial intelligence and machine learning. In addition to my passion for programming, I am constantly striving to enhance my skills and knowledge. I am always open to collaborating on projects and exploring new and creative ideas. I am currently learning data structures and algorithms in C and also learning Python for machine learning, data science and web development (Django) and also learning ReactJS for frontend development.
 
-- 📫 How to reach me **devanshupanigrahi2004@gmail.com**
+- 🤝I am looking for help with OpenSource guidance and contributions to continue growing and learning in the field of computer science. Making a positive impact is always on my mind as I look for opportunities to apply my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
