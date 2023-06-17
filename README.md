@@ -9,7 +9,7 @@
 
 - 🤝I am looking for help with OpenSource guidance and contributions to continue growing and learning in the field of computer science. Making a positive impact is always on my mind as I look for opportunities to apply my skills.
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idevanshu&theme=vue&hide_border=false" alt="idevanshu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idevanshu&theme=vue&hide_border=true" alt="idevanshu" /></p>
 
 <h3 align="left">DSA Profiles:</h3>
 <p align="left">
