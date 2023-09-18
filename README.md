@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="idevanshu" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&weight=100&size=25&pause=100&width=435&height=250&lines=Hello+World" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=100&size=50&pause=1000&height=180&lines=Hello+World...;EAT+SLEEP+CODE;Repeat" alt="Typing SVG" /></a>
 
 - 🤝I am passionately seeking expert advice and opportunities to contribute to Open Source projects. My objective is to consistently broaden my expertise in computer science. However, my mission goes beyond personal growth; I wish to bring about a significant, positive impact within the technology realm. I am ready to utilize my capacity, skills and experience to make a substantial contribution.
 
