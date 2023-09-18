@@ -7,7 +7,7 @@
 
 - 🌱 I am an 18-year computer enthusiast pursuing a bachelor's degree in computer science and engineering in artificial intelligence and machine learning. In addition to my passion for programming, I am constantly striving to enhance my skills and knowledge. I am always open to collaborating on projects and exploring new and creative ideas. I am currently learning data structures and algorithms in C and also learning Python for machine learning, data science and web development (Django) and also learning ReactJS for frontend development.
 
-- 🤝I am looking for help with OpenSource guidance and contributions to continue growing and learning in the field of computer science. Making a positive impact is always on my mind as I look for opportunities to apply my skills.
+- 🤝I am passionately seeking expert advice and opportunities to contribute to Open Source projects. My objective is to consistently broaden my expertise in computer science. However, my mission goes beyond personal growth; I wish to bring about a significant, positive impact within the technology realm. I am ready to utilize my capacity, skills and experience to make a substantial contribution.
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idevanshu&theme=vue&hide_border=true" alt="idevanshu" /></p>
 
