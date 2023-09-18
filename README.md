@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="idevanshu" /> </p>
 
-- 🌱 I am an 18-year computer enthusiast pursuing a bachelor's degree in computer science and engineering in artificial intelligence and machine learning. In addition to my passion for programming, I am constantly striving to enhance my skills and knowledge. I am always open to collaborating on projects and exploring new and creative ideas. I am currently learning data structures and algorithms in C and also learning Python for machine learning, data science and web development (Django) and also learning ReactJS for frontend development.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&weight=100&size=25&pause=100&width=435&height=250&lines=Hello+World" alt="Typing SVG" /></a>
 
 - 🤝I am passionately seeking expert advice and opportunities to contribute to Open Source projects. My objective is to consistently broaden my expertise in computer science. However, my mission goes beyond personal growth; I wish to bring about a significant, positive impact within the technology realm. I am ready to utilize my capacity, skills and experience to make a substantial contribution.
 
